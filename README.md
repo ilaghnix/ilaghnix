@@ -1,37 +1,46 @@
-<div align="center">
+<h1 align="center">ilaghnx</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop" height="150px" width="100%" style="border-radius: 8px; object-fit: cover;" alt="Matrix Background"/>
+  <a href="https://tryhackme.com/p/ilaghnx"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66&labelColor=161b22" alt="TryHackMe"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-omar-diaa-el-din-558403233"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=161b22" alt="LinkedIn"></a>
 </p>
 
-<div style="position: absolute; top: 125px; left: 50%; transform: translate(-50%, -50%); font-family: monospace; color: #00FF00; font-size: 48px; font-weight: bold; text-shadow: 2px 2px 5px #FF00FF, -2px -2px 5px #00FFFF; letter-spacing: 5px; white-space: nowrap; background: rgba(0,0,0,0.5); padding: 10px 20px; border-radius: 5px;">
-    ilaghnx
-</div>
+---
 
-</div>
+## ⚡ 0x01 // Overview
 
-<br>
+Focused on computer networking architectures and defensive/offensive security operations. Continuously building hands-on labs and mastering core security fundamentals.
 
 ---
 
-### 0x01 // Networking & Infrastructure
-- Cisco Certified Network Associate (CCNA)
-- Network Security Fundamentals
+## 📊 0x02 // TryHackMe Stats
 
-### 0x02 // Offensive & Defensive Security
-- Cybersecurity Foundations
-- Cryptography Basics
-- SOC Level 1 (TryHackMe)
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-111483_%28Top_5%25%29-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66&labelColor=161b22" alt="TryHackMe Rank">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Badges-21-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66&labelColor=161b22" alt="TryHackMe Badges">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Streak-89_Days-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66&labelColor=161b22" alt="TryHackMe Streak">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Completed_Rooms-90-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66&labelColor=161b22" alt="TryHackMe Rooms">
+</p>
 
 ---
 
-| Domain | Focus Areas | Platform / Source |
-| :--- | :--- | :--- |
-| **Networking** | CCNA, Network Security | Self-Study |
-| **Cybersecurity** | Core Sec, Crypto, SOC L1 | TryHackMe |
+## 🛠️ 0x03 // Core Tracks
 
-<br>
+### 🌐 Networking & Infrastructure
+- **CCNA** (Cisco Certified Network Associate)
+- **Network Security Fundamentals**
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop"  height="150px"  width="100%" style="border-radius: 8px;" alt="Matrix Background Bottom"/>
-</div>
+### 🛡️ Cybersecurity & Operations
+- **Cybersecurity Basics**
+- **Cyber Security 101** (TryHackMe)
+- **SOC Level 1** (TryHackMe) -It is being worked on-
+
+---
+
+## 🚀 0x04 // Future Goals
+
+### ☁️ Cloud Security & Advanced Operations
