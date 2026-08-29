@@ -8,14 +8,12 @@
 
 ---
 
-## ⚡ 0x01 // Overview
-
+## 0x01 // Overview
 Focused on computer networking architectures and defensive/offensive security operations. Continuously building hands-on labs and mastering core security fundamentals.
 
 ---
 
-## 📊 0x02 // TryHackMe Stats
-
+## 0x02 // TryHackMe Stats
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-%28Top_5%25%29-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF66&labelColor=161b22" alt="TryHackMe Rank">
   &nbsp;&nbsp;
@@ -28,27 +26,54 @@ Focused on computer networking architectures and defensive/offensive security op
 
 ---
 
-## 🛠️ 0x03 // Core Tracks
+## 💻 0x03 // Terminal Session
 
-### 🌐 Networking & Infrastructure
-- **CCNA** (Cisco Certified Network Associate)
-- **Network Security Fundamentals**
+```console
+C:\Users\ilaghnx> cmd
+Microsoft Windows [Version 10.0.22631.4602]
+(c) Microsoft Corporation. All rights reserved.
 
-### 🛡️ Cybersecurity & Operations
-- **Cybersecurity Basics**
-- **Cyber Security 101**
-- **SOC Level 1** 🔄 *(In Progress)*
+C:\Users\ilaghnx> ilaghnx
+```
 
----
+> + ilaghnx:\>
 
-## 🚀 0x04 // Future Roadmap
+```console
+ilaghnx:\> type core_tracks.txt
+```
 
-- **Cloud Security Architecture**
+>
+> + 🌐 Networking & Infrastructure
+>   +  CCNA (Cisco Certified Network Associate)
+>   +    Network Security Fundamentals
+> 
+> + 🛡️ Cybersecurity & Operations
+>    +    Cybersecurity Basics
+>    +    Cyber Security 101
+>    +    SOC Level 1 🔄 (In Progress)
 
----
+```powershell
+ilaghnx:\> powershell
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
 
-## 🤝 0x05 // Community & Soft Skills
+PS ilaghnx:\>
+```
 
-- **Technical Community Management:** Leading and organizing large online technical communities.
-- **Remote Troubleshooting:** Diagnosing and resolving complex technical issues remotely.
-- **Technical Content Creation:** Explaining and simplifying complex technical topics through video.
+```powershell
+PS ilaghnx:\> Get-ChildItem "ilaghnx:\Community_&_Soft Skills" | ForEach-Object { $_.Description }
+```
+
+
+
+> + Technical Community Management: Leading and organizing large online technical communities.
+> + Remote Troubleshooting: Diagnosing and resolving complex technical issues remotely.
+> + Technical Content Creation: Explaining and simplifying complex technical topics through video.
+
+
+```powershell
+PS ilaghnx:\> claude
+```
+
+> + ilaghnx: As we discussed earlier, what is the next certification that complements this knowledge?
+> + Claude: Cloud Security . . .> ```
