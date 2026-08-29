@@ -1,12 +1,16 @@
 <div align="center">
 
-<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=70&lines=Abdullah+Omar+Diaa+Al-Din;ilaghnx" alt="Hacker Typing" /></p>
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius: 8px;" alt="Matrix Background"/>
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop" height="250px" width="100%" style="border-radius: 8px; object-fit: cover;" alt="Matrix Background"/>
 </p>
 
+<div style="position: absolute; top: 125px; left: 50%; transform: translate(-50%, -50%); font-family: monospace; color: #00FF00; font-size: 48px; font-weight: bold; text-shadow: 2px 2px 5px #FF00FF, -2px -2px 5px #00FFFF; letter-spacing: 5px; white-space: nowrap; background: rgba(0,0,0,0.5); padding: 10px 20px; border-radius: 5px;">
+    ilaghnx
 </div>
+
+</div>
+
+<br>
 
 ---
 
@@ -29,5 +33,5 @@
 <br>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop" width="100%" style="border-radius: 8px;" alt="Matrix Background Bottom"/>
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop"  height="250px"  width="100%" style="border-radius: 8px;" alt="Matrix Background Bottom"/>
 </div>
