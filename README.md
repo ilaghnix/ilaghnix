@@ -26,7 +26,7 @@ Focused on computer networking architectures and defensive/offensive security op
 
 ---
 
-## 💻 0x03 // Terminal Session
+## 0x03 // Terminal Session
 
 ```console
 C:\Users\ilaghnx> cmd
@@ -75,5 +75,5 @@ PS ilaghnx:\> Get-ChildItem "ilaghnx:\Community_&_Soft Skills" | ForEach-Object 
 PS ilaghnx:\> claude
 ```
 
-> + ilaghnx: As we discussed earlier, what is the next certification that complements this knowledge?
-> + Claude: Cloud Security . . .> ```
+> + ilaghnx: As we discussed previously after *** **, what is the next certification that completes this knowledge?
+> + Claude: Cloud Security . . .> 
